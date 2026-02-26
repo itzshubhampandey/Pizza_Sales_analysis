@@ -70,6 +70,23 @@ The following charts were created to understand sales trends and product perform
 - Extracting meaningful insights from raw sales data
   --
   ## 📸 Dashboard Preview
+- Home Page
 
 ![Pizza_Sales_analysis](dashboard1.jpg)
+
+- Best/Worst Seller Page
+
 ![Pizza_Sales_analysis](dashboard2.jpg)
+
+---
+## 👤 About Me
+
+**Shubham Pandey**  
+Aspiring Data Analyst | Power BI | SQL | Python  
+
+- Strong interest in HR Analytics and Business Intelligence  
+- Actively building real-world analytics projects  
+
+📫 Feel free to connect with me on LinkedIn and review my other projects.
+- LinkedIn Link- www.linkedin.com/in/itzshubhampandey
+
